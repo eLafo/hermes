@@ -1,0 +1,21 @@
+{
+  "name": "claude-marketplace",
+  "owner": {
+    "name": "elafo"
+  },
+  "metadata": {
+    "description": "A marketplace for Claude Code plugins",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "centauro",
+      "description": "Context Engineering framework for professional management of context files using the C = A(c₁, c₂, c₃, c₄, c₅, c₆) methodology",
+      "source": {
+        "source": "github",
+        "repo": "elafo/centauro"
+      }
+    }
+  ]
+}
