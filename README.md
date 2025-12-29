@@ -26,6 +26,15 @@ A comprehensive toolkit for building, validating, and testing Claude Code extens
 - **Repository**: [eLafo/ouroboros](https://github.com/eLafo/ouroboros)
 - **Use Case**: Developing and maintaining Claude Code extensions with quality assurance
 
+### Hefesto
+
+**Software Development Lifecycle Management**
+
+A plugin that structures feature development from conception through completion, separating Product Owner and Developer responsibilities with distinct `po:` and `dev:` namespaces.
+
+- **Repository**: [elafo/hefesto](https://github.com/elafo/hefesto)
+- **Use Case**: Managing the full software development lifecycle with clear role separation
+
 ## Installation
 
 Plugins in this marketplace are sourced from GitHub repositories. To install a plugin:
