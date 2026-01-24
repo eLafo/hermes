@@ -35,6 +35,15 @@ A plugin that structures feature development from conception through completion,
 - **Repository**: [elafo/hefesto](https://github.com/elafo/hefesto)
 - **Use Case**: Managing the full software development lifecycle with clear role separation
 
+### Context Sources
+
+**Unified Content Management Across Multiple Storage Systems**
+
+A plugin that aggregates content from filesystem, Google Drive, Obsidian vaults, and MCP servers into a cohesive system. Features smart auto-detection of relevant sources based on conversation context, granular read/write permissions, and unified search across all providers.
+
+- **Repository**: [elafo/context-sources](https://github.com/elafo/context-sources)
+- **Use Case**: Managing and querying content from diverse data sources through a single, abstracted interface
+
 ## Installation
 
 Plugins in this marketplace are sourced from GitHub repositories. To install a plugin:
